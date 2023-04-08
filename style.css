@@ -437,7 +437,7 @@ form input {
 }
 
 .copyright h1 span {
-    color: var(--green);
+    color: yellow;
 }
 
 .copyright:hover {

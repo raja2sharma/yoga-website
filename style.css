@@ -420,7 +420,7 @@ form input {
 
 .copyright {
     text-align: center;
-    padding: 3rem 2rem;
+    padding: 3rem 0 2.5rem;
     margin-top: 2rem;
     background-color: var(--black);
     border-radius: .7rem;
@@ -437,7 +437,7 @@ form input {
 }
 
 .copyright h1 span {
-    color: yellow;
+    color: var(--green);
 }
 
 .copyright:hover {
